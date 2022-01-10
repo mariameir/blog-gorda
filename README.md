@@ -3,6 +3,7 @@
 
 O projeto é basicamente um blog para a minha cadelinha, vulgo Gorda. Utilizo conhecimentos basicos de **CSS** e **HTML** na sua construção.
 É um projeto que quero utilizar como base para acompanhar minha evolução nos estudos, pretendo refazer ele mais tarde quando tiver conhecimentos mais avançados de front-end e back-end.
+
 Status:  ✅ Completo
 
 
