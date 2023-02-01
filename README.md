@@ -5,7 +5,7 @@ O projeto é basicamente um blog para a minha cadelinha, vulgo Gorda. Utilizo co
 É um projeto que quero utilizar como base para acompanhar minha evolução nos estudos, pretendo refazer ele mais tarde quando tiver conhecimentos mais avançados de front-end e back-end.
 
 Status:  ✅ Completo
-
+[Clique para ver o projeto](https://mariameir.github.io/blog-gorda/)
 
 Um print do projeto:
 
